@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url:  "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/aemsitestrial/energeticgiraffe79607/main"
+    type: "markup"
+    suffex: ".html"
+folders:
+  /product/: /products/default
